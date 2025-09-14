@@ -1,5 +1,3 @@
-# 👋 Hello there, I'm **Federico Decono**
-
 > **Backend & Data Engineer**
 > Passionate about **scalable APIs**, **workflow automation**, and turning **data into insights**.
 
