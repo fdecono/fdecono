@@ -37,7 +37,7 @@ Currently diving into **Go**, exploring high-performance services and functional
 
 ## 📬 Get in Touch
 
-**Site:** [**Site:**](https://fdecono.com) ·
+**Site:** [fdecono.com](https://fdecono.com) ·
 **LinkedIn:** [linkedin.com/in/fdecono](https://www.linkedin.com/in/federico-decono-12601749/?locale=en_US) ·
 **Email:** [fdecono@gmail.com](mailto:fdecono@gmail.com)
 
