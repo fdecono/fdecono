@@ -37,8 +37,8 @@ Currently diving into **Go**, exploring high-performance services and functional
 
 ## 📬 Get in Touch
 
-**GitHub:** [github.com/fdecono](https://github.com/fdecono) ·
-**LinkedIn:** [linkedin.com/in/fdecono](https://linkedin.com/in/fdecono) ·
+**Site:** [github.com/fdecono](https://fdecono.com) ·
+**LinkedIn:** [linkedin.com/in/fdecono]([https://linkedin.com/in/fdecono](https://www.linkedin.com/in/federico-decono-12601749/?locale=en_US)) ·
 **Email:** [fdecono@gmail.com](mailto:fdecono@gmail.com)
 
 ---
